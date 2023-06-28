@@ -26,7 +26,7 @@ font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(rgb(250, 243, 240), #f00202);
+background-image: linear-gradient(rgb(0, 0, 0), #f00202);
 display: flex;
 justify-content: space-around;
 align-items: center;
