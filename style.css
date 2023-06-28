@@ -21,12 +21,12 @@ font-size: 50px;
 }
 
 .cabeçalho_lista_item{
-margin: 100px 0px 25px 0px;
+margin: 10px 0px 25px 0px;
 font-size: 16px;
 }
 
 .apresentaçao_trabalho{
-background-image: linear-gradient(rgb(124, 121, 120), #000000);
+background-image: linear-gradient(rgb(250, 243, 240), #f00202);
 display: flex;
 justify-content: space-around;
 align-items: center;
