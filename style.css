@@ -13,11 +13,11 @@ padding: 105px 0;
 }
 
 .cabeçalho_imagem{
-width: 12%;
+width: 20%;
 }
 
 .cabeçalho_titulo{
-font-size: 10px;
+font-size: 20px;
 }
 
 .cabeçalho_lista_item{
@@ -38,5 +38,5 @@ font-size: 20px;
 }
 
 .imagem_arvore{
-width: 05%;
+width: 25%;
 }
