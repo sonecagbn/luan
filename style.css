@@ -1,5 +1,5 @@
 * {
-margin: 20%;
+margin: 0%;
 padding: 10%;
 }
 
@@ -17,7 +17,7 @@ width: 10%;
 }
 
 .cabeçalho_titulo{
-font-size: 210px;
+font-size: 10px;
 }
 
 .cabeçalho_lista_item{
